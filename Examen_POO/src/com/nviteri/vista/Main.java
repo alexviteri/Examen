@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.ccalle.vista;
-import com.ccalle.modelo.AmazonUtil;
-import com.ccalle.modelo.Book;
-import com.ccalle.modelo.Chapter;
-import com.ccalle.modelo.Magazine;
-import com.ccalle.modelo.Movie;
-import com.ccalle.modelo.Serie;
+package com.nviteri.vista;
+import com.nviteri.modelo.AmazonUtil;
+import com.nviteri.modelo.Book;
+import com.nviteri.modelo.Chapter;
+import com.nviteri.modelo.Magazine;
+import com.nviteri.modelo.Movie;
+import com.nviteri.modelo.Serie;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
